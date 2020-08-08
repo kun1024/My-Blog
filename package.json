@@ -1,0 +1,24 @@
+{
+  "name": "My-Blog",
+  "version": "1.0.0",
+  "description": "VuePress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kun1024/My-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kun1024/My-Blog/issues"
+  },
+  "homepage": "https://github.com/kun1024/My-Blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
